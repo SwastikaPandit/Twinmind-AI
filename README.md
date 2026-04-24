@@ -3,12 +3,14 @@
 > A real-time AI meeting assistant that listens, transcribes, and surfaces **3 contextual suggestions** every 30 seconds — powered by Groq.
 
 ## 📸 Preview
-
+--------------------------------------------------------------------------------------------
+|   Column                |           What it does                                         |  
+--------------------------------------------------------------------------------------------
 | 🎤 **Transcript**       |    Live mic recording, speech-to-text every 30s via Whisper    |
 | 💡 **Live Suggestions** | 3 fresh contextual suggestions after every transcript chunk    |
 | 💬 **Chat**             | Click a suggestion or type — get detailed bullet-point answers |
+-------------------------------------------------------------------------------------------
 
----
 
 ## ✨ Features
 
